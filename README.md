@@ -1,2 +1,7 @@
-# xu013.github.io
-Liu Xu · Robotics research and engineering
+# 刘旭 · 机器人研究
+
+个人研究与工程项目主页。首次进入默认中文，可切换为英文。
+
+展示项目包括 Spot the Difference、Copy-Paste 和 AeroMaze，保留仿真与实机视频、方法说明、实验结果、个人分工及局限。
+
+字体许可见 `assets/fonts/`。研究稿件处于审稿阶段，未公开论文文件。
